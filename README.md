@@ -1,4 +1,4 @@
 # BCA-Assignment-VBU
-this is my first repository:
+This is My First Repository:
 <br>
 Author- Md Sarfraj
